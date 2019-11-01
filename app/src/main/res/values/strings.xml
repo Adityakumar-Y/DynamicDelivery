@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DynamicDemo</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="module_dashboard">dashboard</string>
+</resources>
